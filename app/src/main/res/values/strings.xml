@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">QuizeBuilder</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="register_here">Register here</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify</string>
+    <string name="reload">Reload</string>
+    <string name="email_password_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="email_password_title_text">Email and Password</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="have_account">Have account?</string>
+    <string name="not_register_yet">Not register yet?</string>
+    <string name="write_your_question_here">write your question here</string>
+    <string name="single_choice">Single choice</string>
+    <string name="multi_choice">Multi choice</string>
+    <string name="answer">Answer</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="save_answer">Save Answer</string>
+    <string name="add_question">Add question</string>
+    <string name="publish_quiz">Publish Quiz</string>
+    <string name="create_question">Create Question</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="take_quiz">Take Quiz</string>
+    <string name="quiz_result">Quiz Result</string>
+    <string name="quiz_list">Quiz List</string>
+    <string name="share_quiz_url">Share Quiz URL</string>
+    <string name="alert_message">Do you want to exit?</string>
+    <string name="ok">Ok</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="please_wait">please wait</string>
+    <string name="select_at_least_one_correct_answer">You have to select at least one correct answer</string>
+    <string name="my_quizzes">My Quizzes</string>
+    <string name="other_quizzes">Other Quizzes</string>
+    <string name="correct_answer_count">there are $ correct answer</string>
+    <string name="enter_your_quiz_name">Enter your quiz name</string>
+    <string name="quiz_name">Quiz name</string>
+    <string name="please_enter_a_name">Please enter a name</string>
+
+</resources>

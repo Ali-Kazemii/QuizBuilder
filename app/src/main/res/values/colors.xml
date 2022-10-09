@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/teal_200</color>
+    <color name="colorPrimaryDark">@color/teal_700</color>
+    <color name="colorAccent">@color/teal_200</color>
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_100">#f2f2f2</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#848484</color>
+    <color name="transparent_60">#4D000000</color>
+    <color name="orange_100">#FFE0B2</color>
+    <color name="orange_700">#F57C00</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="grey_700">#616161</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+
+</resources>

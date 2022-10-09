@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/drawable/background_bottom_sheet.xml" value="0.172" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/drawable/header.xml" value="0.173" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/bottom_sheet_create_question.xml" value="0.3546875" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/bottom_sheet_quiz_name.xml" value="0.25" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/contain_create_question.xml" value="0.3546875" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/contain_publisher_quiz_list.xml" value="0.2109375" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/contain_quiz_name.xml" value="0.3546875" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/fragment_quiz_list.xml" value="0.340625" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/item_other_quiz.xml" value="0.340625" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/item_publisher_quiz.xml" value="0.25" />
+        <entry key="..\:/Other/MyProject/Develop/Quiz/QuizBuilder/app/src/main/res/layout/item_question_with_answers.xml" value="0.340625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

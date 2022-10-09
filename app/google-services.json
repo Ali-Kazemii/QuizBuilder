@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601809585149",
+    "firebase_url": "https://quizebuilder-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quizebuilder",
+    "storage_bucket": "quizebuilder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601809585149:android:264c497008e8a8dc9e4f94",
+        "android_client_info": {
+          "package_name": "com.assessment.quizebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601809585149-25sji7gabetlngqrn4gmeiq2a29mmi3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_d_zpHfm9PQLvUhzNdL3JcDMqKvjfgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601809585149-25sji7gabetlngqrn4gmeiq2a29mmi3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
